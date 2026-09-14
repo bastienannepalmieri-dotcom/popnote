@@ -1,0 +1,10 @@
+<resources>
+    <color name="primary">#5B4CFF</color>
+    <color name="primary_dark">#3C2FCF</color>
+    <color name="background">#F5F4FF</color>
+    <color name="card_background">#FFFFFF</color>
+    <color name="text_primary">#1B1B2F</color>
+    <color name="text_secondary">#6E6E85</color>
+    <color name="accent_note">#FFC94A</color>
+    <color name="overlay_scrim">#66000000</color>
+</resources>
